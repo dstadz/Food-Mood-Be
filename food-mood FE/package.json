@@ -41,9 +41,7 @@
   "devDependencies": {
     "source-map-loader": "^0.2.4",
     "ts-loader": "^6.2.2",
-    "typescript": "^3.7.5",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "typescript": "^3.7.5"
   },
   "keywords": [],
   "author": "",
