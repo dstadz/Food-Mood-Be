@@ -4,7 +4,8 @@ const graphqlHTTP = require('express-graphql')
 const server = express()
 
 server.use('/graphql', graphqlHTTP({
-  schema
+  schema,
+  graphiql: true
 }))
 
 port = 4000
