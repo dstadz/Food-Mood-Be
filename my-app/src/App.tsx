@@ -1,3 +1,4 @@
+  
 import React from 'react'
 import { Route } from 'react-router-dom'
 import Counter from './components/Counter'
@@ -21,5 +22,4 @@ const App: React.FC = () => (
   </div>
 );
 
-
-export default App;
+export default App
